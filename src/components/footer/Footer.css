@@ -1,0 +1,25 @@
+.footer {
+    color: black;
+    padding: 5px;
+    text-align: center;
+    box-shadow: 0 0 10px #089da1;
+  }
+  
+  .footer-content {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  
+  .social-icons {
+    display: flex;
+    width: 20%;
+    align-items: center;
+    justify-content: space-evenly;
+  }
+  
+  .icon {
+    font-size: 34px; 
+    color: black;
+    margin-right: 10px; 
+  }
